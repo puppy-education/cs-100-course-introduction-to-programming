@@ -1,31 +1,32 @@
-*  **[Syllabus](README.md)**
+- **[Syllabus](README.md)**
+
 - **Lessons**
-  - [The Adventure Begins](Lessons/adventure_begins.md)
-  - [Variables](Lessons/variables.md)
-  - [Data Types and Operations](Lessons/datatypes_operations.md)
-  - [Print](Lessons/print.md)
-  - [Input](Lessons/input.md)
-  - [Functions](Lessons/functions.md)
-  - [Reading Errors](Lessons/reading_errors.md)
-  - [Conditionals](Lessons/conditionals.md)
-  - [Pseudocode](Lessons/pseudocode.md)
-  - [Lists](Lessons/lists.md)
-  - [Loops](Lessons/loops.md)
-  - [Debugging](Lessons/debugging.md)
-  - [File IO](Lessons/file_io.md)
-  - [Dictionaries](Lessons/dictionaries.md)
-  - [Code Quality](Lessons/code_quality.md)
-  
+	- [The Adventure Begins](course-materials/lesson01/adventure-begins.md)
+	- [Variables](course-materials/lesson01/variables.md)
+	- [Data Types and Operations](course-materials/lesson02/datatypes-operations.md)
+	- [Input](course-materials/lesson03/input.md)
+	- [Print](course-materials/lesson03/print.md)
+	- [Functions](course-materials/lesson04/functions.md)
+	- [Conditionals](course-materials/lesson05/conditionals.md)
+	- [Lists](course-materials/lesson06/lists.md)
+	- [Pseudocode](course-materials/lesson06/pseudocode.md)
+	- [Loops](course-materials/lesson07/loops.md)
+	- [Debugging](course-materials/lesson08/debugging.md)
+	- [Reading Errors](course-materials/lesson08/reading-errors.md)
+	- [File I/O](course-materials/lesson09/file-io.md)
+	- [Dictionaries](course-materials/lesson10/dictionaries.md)
+	- [Code Quality](course-materials/lesson11/code-quality.md)
+	- [Problem Solving](course-materials/lesson12/problem-solving.md)
+
 - **Assignments**
-  - [Custom Calculator](Lessons/custom_calculator.md)
-  - [Chat Bot](Lessons/chat_bot.md)
-  - [Poetry Slam](Lessons/poetry_slam.md)
-  
+	- [Custom Calculator](course-materials/projects/custom-calculator.md)
+	- [Chat Bot](course-materials/projects/chat-bot.md)
+	- [Poetry Slam](course-materials/projects/poetry-slam.md)
+
 - **Quiz Study Guides**
-  - [Quiz 1](Lessons/quiz1.md)
-  - [Quiz 2](Lessons/quiz2.md)
-  - [Quiz 3](Lessons/quiz3.md)
+	- [Quiz 1](course-materials/quizzes/quiz01.md)
+	- [Quiz 2](course-materials/quizzes/quiz02.md)
+	- [Quiz 3](course-materials/quizzes/quiz03.md)
 
-* [Gradescope](https://www.gradescope.com/courses/201367)
-
-* [Make School](https://www.makeschool.com)
+- [Gradescope](https://www.gradescope.com/courses/201367)
+- [Make School](https://www.makeschool.com)
