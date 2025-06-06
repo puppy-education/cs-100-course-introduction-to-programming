@@ -1,7 +1,7 @@
 # Quiz 1 Study Guide
-Quiz 1 will be open note and open book and will be given via gradescope. You will have 3 days after a quiz is released to complete the quiz either during lab time in class or on your own time. The quiz will take approximately 30min - 1hour to complete. 
+Quiz 1 will be open note and open book and will be given via gradescope. You will have 3 days after a quiz is released to complete the quiz either during lab time in class or on your own time. The quiz will take approximately 30min - 1hour to complete.
 
-To prepare for the quiz review the class slide decks, activities, worksheets, and assignments related to the topics below. 
+To prepare for the quiz review the class slide decks, activities, worksheets, and assignments related to the topics below.
 
 - Variables
     - Using the assignment operator to create variables
@@ -14,7 +14,7 @@ To prepare for the quiz review the class slide decks, activities, worksheets, an
 - Print and Input
     - Be able to explain what print() and input() do
     - Be able to write code that uses print() and input()
-- Refer to your [Custom Calculator](https://make-school-courses.github.io/CS-1.0-Introduction-To-Programming/#/Lessons/custom_calculator) assignment
+- Refer to your [Custom Calculator](https://make-school-courses.github.io/CS-1.0-Introduction-To-Programming/#/Lessons/custom-calculator) assignment
 - Functions
     - Be able to identify the components of a function
     - Be able to analyze what a function call will do
