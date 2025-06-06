@@ -13,7 +13,7 @@ To prepare for the quiz review the class slide decks, activities, worksheets, an
 - Print and Input
 	- Be able to explain what print() and input() do
 	- Be able to write code that uses print() and input()
-- Refer to your [Custom Calculator](https://make-school-courses.github.io/CS-1.0-Introduction-To-Programming/#/Lessons/custom-calculator) assignment
+- Refer to your [Custom Calculator](https://make-school-courses.github.io/CS-1.0-Introduction-To-Programming/#/course-materials/projects/custom-calculator) assignment
 - Functions
 	- Be able to identify the components of a function
 	- Be able to analyze what a function call will do
